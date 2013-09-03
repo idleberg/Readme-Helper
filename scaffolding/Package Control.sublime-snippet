@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[
+# ${1:Package Name}
+
+${2:<description>}
+
+## Installation
+
+### Package Control
+
+1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
+2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P on OS X`)
+3. Select *${3:${1:Package Name}}* and press `Enter`}
+
+### GitHub
+
+1. Change to your Sublime Text `Packages/User` directory
+2. Clone repository `git clone https://github.com/${4:user}/${5:repository}`
+
+## Usage
+
+${6:<instructions>}
+
+## Authors
+
+${7:<authors>}
+
+## License
+
+${8:<license>}
+
+## Donate
+
+${9:<donation>}
+]]></content>
+	<tabTrigger>rmsublime</tabTrigger>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>

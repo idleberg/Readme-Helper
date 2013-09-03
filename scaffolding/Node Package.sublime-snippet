@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+# ${1:Package Name}
+
+${2:<description>}
+
+## Installation
+
+`\$ npm install -g ${3:<package>}`
+
+## Usage
+
+${6:<instructions>}
+
+## Authors
+
+${7:<authors>}
+
+## License
+
+${8:<license>}
+
+## Donate
+
+${9:<donation>}
+]]></content>
+	<tabTrigger>rmnode</tabTrigger>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>
