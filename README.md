@@ -13,7 +13,7 @@ Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process
 ### GitHub
 
 1. Change to your Sublime Text `Packages/User` directory
-2. Clone repository `git clone https://github.com/idleberg/ScummC-Sublime-Text.git`
+2. Clone repository `git clone https://github.com/idleberg/Readme-Helper.git`
 
 ### Manual installation
 
@@ -108,4 +108,4 @@ THE SOFTWARE.
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ScummC-Sublime-Text)
+[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Readme-Helper)
