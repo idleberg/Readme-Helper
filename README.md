@@ -71,6 +71,9 @@ inserts a [David](https://david-dm.org/) badge
 `rmflattr`
 inserts a [Flattr](http://flattr.com) badge
 
+`rmpaypal`
+inserts a [PayPal](http://paypal.com) badge
+
 `rmtravis`
 inserts a [Travis](http://travis-ci.org) badge
 
