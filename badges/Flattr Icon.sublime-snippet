@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+[![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)](https://flattr.com/submit/auto?user_id=${1:user}&url=https://github.com/${2:${1:user}}/${3:repository})
+]]></content>
+	<tabTrigger>rmflattr_icon</tabTrigger>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>

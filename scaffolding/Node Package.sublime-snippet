@@ -6,7 +6,7 @@ ${2:<description>}
 
 ## Installation
 
-`\$ npm install -g ${3:<package>}`
+`\$ npm install${3: -g} ${4:<package>}`
 
 ## Usage
 

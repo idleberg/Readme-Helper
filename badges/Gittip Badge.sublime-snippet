@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+[![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/${1:user})
+]]></content>
+	<tabTrigger>rmgittip</tabTrigger>
+	<scope>text.html.markdown,text.plain</scope>
+</snippet>

@@ -22,7 +22,7 @@ Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process
 
 ## Usage
 
-By default, command completion should be enabled in all Sublime Text versions. All included snippets are limited to the Markdown and plain-text scopes. See below for the available commands to trigger the snippets.
+By default, command completion should be enabled in all Sublime Text versions. If the completion popup doesn't show while typing one of the following commands, you can force showing it using `Ctrl+Space. All included snippets are limited to the Markdown and plain-text scopes. See below for the available commands to trigger the snippets.
 
 ### Scaffolding
 
@@ -66,10 +66,16 @@ The zlib/libpng License
 #### Badges
 
 `rmdavid`
-inserts a [David](https://david-dm.org/) badge 
+inserts a [David](https://david-dm.org/) badge
 
 `rmflattr`
 inserts a [Flattr](http://flattr.com) badge
+
+`rmflattr_icon`
+inserts a [Flattr](http://flattr.com) icon
+
+`rmgittip`
+inserts a [Gittip](http://gittip.com) badge
 
 `rmpaypal`
 inserts a [PayPal](http://paypal.com) badge
