@@ -3,5 +3,5 @@
 [![devDependency Status](https://david-dm.org/${1:user}/${2:project}/dev-status.png)](https://david-dm.org/${1:user}/${2:project}#info=devDependencies)
 ]]></content>
 	<tabTrigger>rmdavid</tabTrigger>
-	<scope>text.html.markdown,text.plain</scope>
+	<scope>text.html.markdownn</scope>
 </snippet>

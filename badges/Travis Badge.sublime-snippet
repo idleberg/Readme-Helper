@@ -3,5 +3,5 @@
 [![Build Status](https://secure.travis-ci.org/${1:user}/${2:project}.png)](http://travis-ci.org/${1:user}/${2:project})
 ]]></content>
 	<tabTrigger>rmtrav</tabTrigger>
-	<scope>text.html.markdown,text.plain</scope>
+	<scope>text.html.markdown</scope>
 </snippet>

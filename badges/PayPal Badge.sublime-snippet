@@ -3,5 +3,5 @@
 [![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif")](hhttps://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=${1:id})
 ]]></content>
 	<tabTrigger>rmpaypal</tabTrigger>
-	<scope>text.html.markdown,text.plain</scope>
+	<scope>text.html.markdown</scope>
 </snippet>
