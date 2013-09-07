@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+This work ${1:by ${2:author}} is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
+]]></content>
+	<tabTrigger>ccbysa</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

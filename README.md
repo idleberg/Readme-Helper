@@ -22,7 +22,7 @@ Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process
 
 ## Usage
 
-By default, command completion should be enabled in all Sublime Text versions. If the completion popup doesn't show while typing one of the following commands, you can force showing it using `Ctrl+Space. All included snippets are limited to the Markdown scope, the license commands are enabled for plain text as well. See below for the available commands to trigger the snippets.
+By default, command completion should be enabled in all Sublime Text versions. If the completion popup doesn't show while typing one of the following commands, you can force showing it using `Ctrl+Space. All included snippets are limited to the Markdown scope, the text-only licenses are also enabled for plain text. See below for the available commands to trigger the snippets.
 
 ### Scaffolding
 
@@ -44,6 +44,24 @@ BSD 2-Clause License
 
 `bsd3`
 BSD 3-Clause License
+
+`ccby`
+Creative Commons Attribution 3.0 Unported License
+
+`ccbync`
+Creative Commons Attribution-NonCommercial 3.0 Unported License
+
+`ccbyncnd`
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
+
+`ccbyncsa`
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+
+`ccbynd`
+Creative Commons Attribution-NoDerivs 3.0 Unported License
+
+`ccbysa`
+Creative Commons Attribution-ShareAlike 3.0 Unported License
 
 `agpl3`
 GNU Affero General Public License 3.0
