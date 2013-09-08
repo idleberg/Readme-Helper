@@ -101,7 +101,7 @@ inserts a [Gittip](http://gittip.com) badge
 
 `rmpaypal`
 inserts a [PayPal](http://paypal.com) badge
-[![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif")](hhttps://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=id)
+[![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif")](https://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=id)
 
 `rmtravis`
 inserts a [Travis](http://travis-ci.org) badge
