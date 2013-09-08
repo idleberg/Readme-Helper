@@ -37,70 +37,74 @@ instructions for Sublime Text Package Control
 #### Licenses
 
 `apache`
-Apache License, Version 2.0
+[Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0)
 
 `bsd2`
-BSD 2-Clause License
+[BSD 2-Clause License](http://opensource.org/licenses/BSD-2-Clause)
 
 `bsd3`
-BSD 3-Clause License
+[BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause)
 
 `ccby`
-Creative Commons Attribution 3.0 Unported License
+[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
 `ccbync`
-Creative Commons Attribution-NonCommercial 3.0 Unported License
+[Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/)
 
 `ccbyncnd`
-Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
+[Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/)
 
 `ccbyncsa`
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 `ccbynd`
-Creative Commons Attribution-NoDerivs 3.0 Unported License
+[Creative Commons Attribution-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nd/3.0/)
 
 `ccbysa`
-Creative Commons Attribution-ShareAlike 3.0 Unported License
+[Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
 
 `agpl3`
-GNU Affero General Public License 3.0
+[GNU Affero General Public License 3.0](http://opensource.org/licenses/AGPL-3.0)
 
 `gpl2`
-GNU General Public License 2.0
+[GNU General Public License 2.0](http://opensource.org/licenses/GPL-2.0)
 
 `gpl3`
-GNU General Public License 3.0
+[GNU General Public License 3.0](http://opensource.org/licenses/GPL-3.0)
 
 `lgpl2`
-GNU Lesser General Public License 2.1
+[GNU Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
 
 `mit`
-The MIT License
+[The MIT License](http://opensource.org/licenses/MIT)
 
 `zlib`
-The zlib/libpng License
+[The zlib/libpng License](http://opensource.org/licenses/Zlib)
 
 #### Badges
 
 `rmdavid`
 inserts a [David](https://david-dm.org/) badge
+[![devDependency Status](https://david-dm.org/idleberg//dev-status.png)](https://david-dm.org/idleberg/${2:project}#info=devDependencies)
 
 `rmflattr`
 inserts a [Flattr](http://flattr.com) badge
+[![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/repository)
 
 `rmflattr_icon`
 inserts a [Flattr](http://flattr.com) icon
+[![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/repository)
 
 `rmgittip`
 inserts a [Gittip](http://gittip.com) badge
+[![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/idleberg)
 
 `rmpaypal`
 inserts a [PayPal](http://paypal.com) badge
+[![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif")](hhttps://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=id)
 
 `rmtravis`
 inserts a [Travis](http://travis-ci.org) badge
-
 
 ## Contributions
 
