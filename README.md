@@ -85,7 +85,7 @@ instructions for Sublime Text Package Control
 
 `rmdavid`
 inserts a [David](https://david-dm.org/) badge
-[![devDependency Status](https://david-dm.org/idleberg//dev-status.png)](https://david-dm.org/idleberg/${2:project}#info=devDependencies)
+[![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)](https://david-dm.org/idleberg/Readme-Helper#info=devDependencies)
 
 `rmflattr`
 inserts a [Flattr](http://flattr.com) badge
