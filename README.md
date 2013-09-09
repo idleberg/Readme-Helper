@@ -85,25 +85,26 @@ instructions for Sublime Text Package Control
 
 `rmdavid`
 inserts a [David](https://david-dm.org/) badge
-[![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)](https://david-dm.org/idleberg/Readme-Helper#info=devDependencies)
+![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)
 
 `rmflattr`
 inserts a [Flattr](http://flattr.com) badge
-[![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/repository)
+![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)
 
 `rmflattr_icon`
 inserts a [Flattr](http://flattr.com) icon
-[![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/repository)
+![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
 
 `rmgittip`
 inserts a [Gittip](http://gittip.com) badge
-[![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/idleberg)
+![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
 
 `rmpaypal`
 inserts a [PayPal](http://paypal.com) badge
-[![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=id)
+![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
 
 `rmtravis`
+
 inserts a [Travis](http://travis-ci.org) badge
 
 ## Contributions
