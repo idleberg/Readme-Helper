@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+[![Code Climate](https://codeclimate.com/${1:user}/${2:repository}.png)](https://codeclimate.com/${1:user}/${2:repository})
+]]></content>
+	<tabTrigger>rmcodeclimate</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

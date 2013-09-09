@@ -83,6 +83,13 @@ instructions for Sublime Text Package Control
 
 #### Badges
 
+`rmcodeclimate`  
+inserts a [Code Climate](https://coveralls.io) badge
+
+`rmcoveralls`  
+inserts a [Coveralls](https://coveralls.io) badge
+![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
+
 `rmdavid`  
 inserts a [David](https://david-dm.org/) badge
 ![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)
