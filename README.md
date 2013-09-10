@@ -87,7 +87,7 @@ instructions for Sublime Text Package Control
 inserts a [Code Climate](https://coveralls.io) badge
 
 `rmcoveralls`  
-inserts a [Coveralls](https://coveralls.io) badge  
+inserts a [Coveralls](https://coveralls.io) badge
 ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
 
 `rmdavid`  
@@ -103,8 +103,8 @@ inserts a [Flattr](http://flattr.com) icon
 ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
 
 `rmgem`  
-inserts a Gem version badge
-![gem version](https://d25lcipzij17d.cloudfront.net/badge.png?title=gem&type=3d)
+inserts a [Gem](http://badge.fury.io/) version badge
+![gem version](https://badge.fury.io/rb/gem.png)
 
 `rmgittip`  
 inserts a [Gittip](http://gittip.com) badge
@@ -114,9 +114,13 @@ inserts a [Gittip](http://gittip.com) badge
 inserts a [PayPal](http://paypal.com) badge
 ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
 
+`rmpypi`  
+inserts a [PyPI](http://badge.fury.io/) badge
+![npm module](https://badge.fury.io/py/pypi.png)
+
 `rmnpm`  
-inserts a npm Module badge
-![npm module](https://d25lcipzij17d.cloudfront.net/badge.png?title=npm&type=3d)
+inserts a [npm](http://badge.fury.io/) badge
+![npm module](https://badge.fury.io/js/npm.png)
 
 `rmtravis`  
 inserts a [Travis](http://travis-ci.org) badge
