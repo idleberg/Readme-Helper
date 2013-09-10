@@ -87,7 +87,7 @@ instructions for Sublime Text Package Control
 inserts a [Code Climate](https://coveralls.io) badge
 
 `rmcoveralls`  
-inserts a [Coveralls](https://coveralls.io) badge
+inserts a [Coveralls](https://coveralls.io) badge  
 ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
 
 `rmdavid`  
@@ -102,6 +102,10 @@ inserts a [Flattr](http://flattr.com) badge
 inserts a [Flattr](http://flattr.com) icon
 ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
 
+`rmgem`  
+inserts a Gem version badge
+![gem version](https://d25lcipzij17d.cloudfront.net/badge.png?title=gem&type=3d)
+
 `rmgittip`  
 inserts a [Gittip](http://gittip.com) badge
 ![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
@@ -109,6 +113,10 @@ inserts a [Gittip](http://gittip.com) badge
 `rmpaypal`  
 inserts a [PayPal](http://paypal.com) badge
 ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
+
+`rmnpm`  
+inserts a npm Module badge
+![npm module](https://d25lcipzij17d.cloudfront.net/badge.png?title=npm&type=3d)
 
 `rmtravis`  
 inserts a [Travis](http://travis-ci.org) badge
