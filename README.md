@@ -26,103 +26,103 @@ By default, command completion should be enabled in all Sublime Text versions. I
 
 ### Scaffolding
 
-`rmsublime`
+`_sublime`
 instructions for Sublime Text Package Control
 
-`rmnode`
+`_node`
 (very basic) instructions for the Node Package Manager
 
 ### Snippets
 
 #### Licenses
 
-`apache`  
+`_apache`  
 [Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0)
 
-`bsd2`  
+`_bsd2`  
 [BSD 2-Clause License](http://opensource.org/licenses/BSD-2-Clause)  
 
-`bsd3`  
+`_bsd3`  
 [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause)
 
-`ccby`  
+`_ccby`  
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
-`ccbync`  
+`_ccbync`  
 [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/)
 
-`ccbyncnd`  
+`_ccbyncnd`  
 [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/)
 
-`ccbyncsa`  
+`_ccbyncsa`  
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-`ccbynd`  
+`_ccbynd`  
 [Creative Commons Attribution-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nd/3.0/)
 
-`ccbysa`  
+`_ccbysa`  
 [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
 
-`agpl3`  
+`_afferogpl3`  
 [GNU Affero General Public License 3.0](http://opensource.org/licenses/AGPL-3.0)
 
-`gpl2`  
+`_gpl2`  
 [GNU General Public License 2.0](http://opensource.org/licenses/GPL-2.0)
 
-`gpl3`  
+`_gpl3`  
 [GNU General Public License 3.0](http://opensource.org/licenses/GPL-3.0)
 
-`lgpl2`  
+`_lgpl2`  
 [GNU Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
 
-`mit`  
+`_mit`  
 [The MIT License](http://opensource.org/licenses/MIT)
 
-`zlib`  
+`_zlib`  
 [The zlib/libpng License](http://opensource.org/licenses/Zlib)
 
 #### Badges
 
-`rmcodeclimate`  
+`_codeclimate`  
 inserts a [Code Climate](https://coveralls.io) badge
 
-`rmcoveralls`  
+`_coveralls`  
 inserts a [Coveralls](https://coveralls.io) badge
 ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
 
-`rmdavid`  
+`_david`  
 inserts a [David](https://david-dm.org/) badge
 ![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)
 
-`rmflattr`  
+`_flattr`  
 inserts a [Flattr](http://flattr.com) badge
 ![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)
 
-`rmflattr_icon`  
+`_flattr_icon`  
 inserts a [Flattr](http://flattr.com) icon
 ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
 
-`rmgem`  
+`_gem`  
 inserts a [Gem](http://badge.fury.io/) version badge
 ![gem version](https://badge.fury.io/rb/gem.png)
 
-`rmgittip`  
+`_gittip`  
 inserts a [Gittip](http://gittip.com) badge
 ![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
 
-`rmpaypal`  
+`_paypal`  
 inserts a [PayPal](http://paypal.com) badge
 ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
 
-`rmpypi`  
+`_pypi`  
 inserts a [PyPI](http://badge.fury.io/) badge
 ![npm module](https://badge.fury.io/py/pypi.png)
 
-`rmnpm`  
+`_npm`  
 inserts a [npm](http://badge.fury.io/) badge
 ![npm module](https://badge.fury.io/js/npm.png)
 
-`rmtravis`  
+`_travis`  
 inserts a [Travis](http://travis-ci.org) badge
 
 ## Contributions
