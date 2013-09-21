@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<iframe src="http://ghbtns.com/github-btn.html?user=${1:user}&repo=${2:repository}&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
+]]></content>
+	<tabTrigger>_fork</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

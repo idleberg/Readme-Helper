@@ -106,6 +106,34 @@ inserts a [Flattr](http://flattr.com) icon
 inserts a [Gem](http://badge.fury.io/) version badge
 ![gem version](https://badge.fury.io/rb/gem.png)
 
+`_follow`  
+inserts [GitHub Button](http://ghbtns.com/)
+<iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
+
+`_follow_count`  
+inserts [GitHub Button](http://ghbtns.com/)
+<iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
+
+`_fork`  
+inserts [GitHub Button](http://ghbtns.com/)
+<iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
+
+`_fork_count`  
+inserts [GitHub Button](http://ghbtns.com/)
+<iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
+
+`_star`  
+inserts [GitHub Button](http://ghbtns.com/)
+<iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=github-buttons&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe>
+
+`_star_count`  
+inserts [GitHub Button](http://ghbtns.com/)
+<iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+
+`_star_large_count`  
+inserts [GitHub Button](http://ghbtns.com/)
+<iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe>
+
 `_gittip`  
 inserts a [Gittip](http://gittip.com) badge
 ![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
