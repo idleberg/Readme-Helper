@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+https://sourceforge.net/projects/${1:project}
+]]></content>
+	<tabTrigger>_sp</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

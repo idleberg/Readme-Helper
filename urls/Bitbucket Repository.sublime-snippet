@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+https://bitbucket.org/${1:user}/${2:repository}
+]]></content>
+	<tabTrigger>_br</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

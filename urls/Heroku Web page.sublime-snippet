@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-http://github.com/${1:user}
+http://${1:app}.herokuapp.com
 ]]></content>
-	<tabTrigger>_gu</tabTrigger>
+	<tabTrigger>_hw</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

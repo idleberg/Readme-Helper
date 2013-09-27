@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+https://github.com/${1:user}
+]]></content>
+	<tabTrigger>_gu</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>
