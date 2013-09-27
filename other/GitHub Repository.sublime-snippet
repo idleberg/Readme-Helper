@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+http://github.com/${1:user}/${2:repository}
+]]></content>
+	<tabTrigger>_gr</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

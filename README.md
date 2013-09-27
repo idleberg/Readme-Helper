@@ -153,6 +153,17 @@ inserts a [npm](http://badge.fury.io/) badge
 `_travis`  
 inserts a [Travis](http://travis-ci.org) badge
 
+#### Other
+
+`_gr`  
+link to GitHub repository
+
+`_gu`  
+link to GitHub user profile
+
+`_gw`  
+link to GitHub web page
+
 ## Contributions
 
 If you'd like to contribute to this project, feel invited to commit to this repository!
