@@ -45,23 +45,44 @@ instructions for Sublime Text Package Control
 `_bsd3`  
 [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause)
 
-`_ccby`  
+`_ccby3`  
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
-`_ccbync`  
+`_cc0`  
+[Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
+
+`_ccby4`  
+[Creative Commons Attribution 4.0 Unported License](http://creativecommons.org/licenses/by/4.0/)
+
+`_ccbync3`  
 [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/)
 
-`_ccbyncnd`  
+`_ccbync4`  
+[Creative Commons Attribution-NonCommercial 4.0 Unported License](http://creativecommons.org/licenses/by-nc/4.0/)
+
+`_ccbyncnd3`  
 [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/)
 
-`_ccbyncsa`  
+`_ccbyncnd4`  
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+`_ccbyncsa3`  
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-`_ccbynd`  
+`_ccbyncsa4`  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+`_ccbynd3`  
 [Creative Commons Attribution-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nd/3.0/)
 
-`_ccbysa`  
+`_ccbynd4`  
+[Creative Commons Attribution-NoDerivs 4.0 Unported License](http://creativecommons.org/licenses/by-nd/4.0/)
+
+`_ccbysa3`  
 [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
+
+`_ccbysa4`  
+[Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 `_afferogpl3`  
 [GNU Affero General Public License 3.0](http://opensource.org/licenses/AGPL-3.0)
