@@ -127,6 +127,10 @@ inserts a [Flattr](http://flattr.com) icon
 inserts a [Gem](http://badge.fury.io/) version badge
 ![gem version](https://badge.fury.io/rb/gem.png)
 
+`_grunt`  
+inserts a [Grunt](http://gruntjs.com/) badge
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 `_follow`  
 inserts [GitHub Follow](http://ghbtns.com/) button
 <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
