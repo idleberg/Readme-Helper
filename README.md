@@ -111,6 +111,10 @@ inserts a [Code Climate](https://coveralls.io) badge
 inserts a [Coveralls](https://coveralls.io) badge
 ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
 
+`_bitdeli`  
+inserts a [BitDeli](https://bitdeli.com) badge
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 `_david`  
 inserts a [David](https://david-dm.org/) badge
 ![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)
@@ -229,3 +233,5 @@ THE SOFTWARE.
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Readme-Helper) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
