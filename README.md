@@ -199,7 +199,7 @@ link to GitHub user profile
 `_gw`  
 link to GitHub web page
 
-`_sp`  
+`_sf`  
 link to SourceForge project
 
 ## Contributions
