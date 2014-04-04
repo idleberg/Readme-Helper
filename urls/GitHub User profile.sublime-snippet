@@ -2,6 +2,6 @@
 	<content><![CDATA[
 https://github.com/${1:user}
 ]]></content>
-	<tabTrigger>_gu</tabTrigger>
+	<tabTrigger>rm:github_user</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

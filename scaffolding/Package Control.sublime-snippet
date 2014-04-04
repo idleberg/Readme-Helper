@@ -33,6 +33,6 @@ ${8:<license>}
 
 ${9:<donation>}
 ]]></content>
-	<tabTrigger>_sublime</tabTrigger>
+	<tabTrigger>rm:sublime</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

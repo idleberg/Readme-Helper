@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <iframe src="http://ghbtns.com/github-btn.html?user=${1:user}&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
 ]]></content>
-	<tabTrigger>_follow_count</tabTrigger>
+	<tabTrigger>rm:follow_count</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

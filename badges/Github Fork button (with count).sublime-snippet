@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <iframe src="http://ghbtns.com/github-btn.html?user=${1:user}&repo=${2:repository}&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
 ]]></content>
-	<tabTrigger>_fork_count</tabTrigger>
+	<tabTrigger>rm:fork_count</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

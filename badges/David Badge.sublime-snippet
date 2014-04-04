@@ -2,6 +2,6 @@
 	<content><![CDATA[
 [![devDependency Status](https://david-dm.org/${1:user}/${2:project}/dev-status.png)](https://david-dm.org/${1:user}/${2:project}#info=devDependencies)
 ]]></content>
-	<tabTrigger>_david</tabTrigger>
+	<tabTrigger>rm:david</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

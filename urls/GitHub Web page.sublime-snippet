@@ -2,6 +2,6 @@
 	<content><![CDATA[
 https://${1:user}.github.io/${2:repository}
 ]]></content>
-	<tabTrigger>_gw</tabTrigger>
+	<tabTrigger>rm:github_webpage</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

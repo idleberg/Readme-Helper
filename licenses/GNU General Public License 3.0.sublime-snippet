@@ -15,6 +15,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ]]></content>
-	<tabTrigger>_gpl3</tabTrigger>
+	<tabTrigger>rm:gpl3</tabTrigger>
 	<scope>text.html.markdown,text.plain</scope>
 </snippet>

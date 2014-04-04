@@ -14,6 +14,6 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 3. This notice may not be removed or altered from any source distribution.
 ]]></content>
-	<tabTrigger>zlib</tabTrigger>
+	<tabTrigger>rm:zlib</tabTrigger>
 	<scope>text.html.markdown,text.plain</scope>
 </snippet>

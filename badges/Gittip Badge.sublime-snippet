@@ -2,6 +2,6 @@
 	<content><![CDATA[
 [![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/${1:user})
 ]]></content>
-	<tabTrigger>_gittip</tabTrigger>
+	<tabTrigger>rm:gittip</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

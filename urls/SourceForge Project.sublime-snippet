@@ -2,6 +2,6 @@
 	<content><![CDATA[
 https://sourceforge.net/projects/${1:project}
 ]]></content>
-	<tabTrigger>_sf</tabTrigger>
+	<tabTrigger>rm:sourceforge</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

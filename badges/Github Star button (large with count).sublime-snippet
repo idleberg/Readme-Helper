@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <iframe src="http://ghbtns.com/github-btn.html?user=${1:user}&repo=${2:repository}&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe>
 ]]></content>
-	<tabTrigger>_star_large_count</tabTrigger>
+	<tabTrigger>rm:star_large_count</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>
