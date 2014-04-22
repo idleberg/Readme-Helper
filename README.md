@@ -94,14 +94,14 @@ Trigger               | Badge
 
 Trigger                  | Target                   | Example
 -------------------------|--------------------------|--------
-`rm:bitbucket_repo`      | Bitbucket repository     | https://bitbucket.org/*user*/*repository*
-`rm:github_repo`         | GitHub repository        | https://github.com/*user*/*repository*
-`rm:github_user`         | GitHub user profile      | https://github.com/*user*
-`rm:github_webpage`      | GitHub web page          | https://*user*.github.io/*repository*
-`rm:googlecode`          | Google Code project      | https://code.google.com/p/*project*
-`rm:heroku_webpage`      | Heroku web page          | http://*example*.herokuapp.com
-`rm:sourceforge`         | SourceForge project page | https://sourceforge.net/projects/*example*
-`rm:sourceforge_webpage` | SourceForge web page     | http://*example*.sourceforge.net
+`rm:bitbucket_repo`      | Bitbucket repository     | https://bitbucket.org/user/repository
+`rm:github_repo`         | GitHub repository        | https://github.com/user/repository
+`rm:github_user`         | GitHub user profile      | https://github.com/user
+`rm:github_webpage`      | GitHub web page          | https://user.github.io/repository
+`rm:googlecode`          | Google Code project      | https://code.google.com/p/project
+`rm:heroku_webpage`      | Heroku web page          | http://example.herokuapp.com
+`rm:sourceforge`         | SourceForge project page | https://sourceforge.net/projects/example
+`rm:sourceforge_webpage` | SourceForge web page     | http://example.sourceforge.net
 
 ## Contributions
 
