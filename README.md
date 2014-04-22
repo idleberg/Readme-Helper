@@ -93,7 +93,7 @@ Trigger               | Badge
 #### URLs
 
 Trigger                  | Target                   | Example
--------------------------|-----------------------------------
+-------------------------|--------------------------|--------
 `rm:bitbucket_repo`      | Bitbucket repository     | https://bitbucket.org/*user*/*repository*
 `rm:github_repo`         | GitHub repository        | https://github.com/*user*/*repository*
 `rm:github_user`         | GitHub user profile      | https://github.com/*user*
