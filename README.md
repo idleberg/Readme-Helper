@@ -70,13 +70,13 @@ Trigger         | License
 Trigger               | Badge
 ----------------------|------
 `rm:codeclimate`      | [Code Climate](https://coveralls.io)
-`rm:coveralls`        | [![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)](https://coveralls.io)
-`rm:bitdeli`          | [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+`rm:coveralls`        | ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)]
+`rm:bitdeli`          | [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)](https://bitdeli.com/free)
 `rm:david`            | [![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)](https://david-dm.org/)
-`rm:flattr`           | [![Flattr this](https://api.flattr.co]m/button/flattr-badge-large.png)](http://flattr.com)]
-`rm:flattr_icon`      | [![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)](http://flattr.com)
-`rm:gem`              | [![gem version](https://badge.fury.io/rb/gem.png)](http://badge.fury.io/)
-`rm:grunt`            | [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+`rm:flattr`           | ![Flattr this](https://api.flattr.co]m/button/flattr-badge-large.png)
+`rm:flattr_icon`      | ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
+`rm:gem`              | ![gem version](https://badge.fury.io/rb/gem.png)
+`rm:grunt`            | ![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)
 `rm:follow`           | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
 `rm:follow_count`     | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
 `rm:fork`             | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
@@ -84,24 +84,24 @@ Trigger               | Badge
 `rm:star`             | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=github-buttons&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe>
 `rm:star_count`       | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
 `rm:star_large_count` | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe>
-`rm:gittip`           | [![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)]((http://gittip.com)
-`rm:paypal`           | [![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)](http://paypal.com)
-`rm:pypi`             | [![npm module](https://badge.fury.io/py/pypi.png)](http://badge.fury.io/)
-`rm:npm`              | [![npm module](https://badge.fury.io/js/npm.png)](http://badge.fury.io/)
+`rm:gittip`           | ![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
+`rm:paypal`           | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
+`rm:pypi`             | ![npm module](https://badge.fury.io/py/pypi.png)
+`rm:npm`              | ![npm module](https://badge.fury.io/js/npm.png)
 `rm:travis`           | [Travis](http://travis-ci.org)
 
 #### URLs
 
-Trigger                  | Target
--------------------------|-------
-`rm:bitbucket_repo`      | Bitbucket repository
-`rm:googlecode`          | Google Code project
-`rm:github_repo`         | GitHub repository
-`rm:github_user`         | GitHub user profile
-`rm:github_webpage`      | GitHub web page
-`rm:heroku_webpage`      | Heroku web page
-`rm:sourceforge`         | SourceForge project page
-`rm:sourceforge_webpage` | SourceForge web page
+Trigger                  | Target                   | Example
+-------------------------|-----------------------------------
+`rm:bitbucket_repo`      | Bitbucket repository     | https://bitbucket.org/*user*/*repository*
+`rm:github_repo`         | GitHub repository        | https://github.com/*user*/*repository*
+`rm:github_user`         | GitHub user profile      | https://github.com/*user*
+`rm:github_webpage`      | GitHub web page          | https://*user*.github.io/*repository*
+`rm:googlecode`          | Google Code project      | https://code.google.com/p/*project*
+`rm:heroku_webpage`      | Heroku web page          | http://*example*.herokuapp.com
+`rm:sourceforge`         | SourceForge project page | https://sourceforge.net/projects/*example*
+`rm:sourceforge_webpage` | SourceForge web page     | http://*example*.sourceforge.net
 
 ## Contributions
 
