@@ -69,7 +69,7 @@ Trigger         | License
 
 Trigger               | Badge                                           | Example
 ----------------------|-------------------------------------------------|--------
-`rm:codeclimate`      | [Code Climate](https://coveralls.io)            | n/a
+`rm:codeclimate`      | [Code Climate](https://coveralls.io/)            | n/a
 `rm:coveralls`        | [Coverage](https://coveralls.io/)               | ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)]
 `rm:bitdeli`          | [BitDeli](https://bitdeli.com/)                 | [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)](https://bitdeli.com/free)
 `rm:david`            | [devDependency](https://david-dm.org/)          | [![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)](https://david-dm.org/)
@@ -87,8 +87,8 @@ Trigger               | Badge                                           | Exampl
 `rm:gittip`           | [Gittip](http://gittip.com/)                    | ![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
 `rm:paypal`           | [Paypal](http://paypal.com/)                    | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
 `rm:pypi`             | [PyPI](http://badge.fury.io/)                   | ![npm module](https://badge.fury.io/py/pypi.png)
-`rm:npm`              | [npm](http://badge.fury.io/)                    | ![npm module](https://badge.fury.io/js/npm.png)
-`rm:travis`           | [Travis](http://travis-ci.org)                  | n/a
+`rm:npm`              | [npm](https://www.npmjs.org/)                    | ![npm module](https://badge.fury.io/js/npm.png)
+`rm:travis`           | [Travis](http://travis-ci.org/)                  | n/a
 
 #### URLs
 
