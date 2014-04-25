@@ -73,7 +73,7 @@ Trigger               | Badge                                           | Exampl
 `rm:coveralls`        | [Coverage](https://coveralls.io/)               | ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)]
 `rm:bitdeli`          | [BitDeli](https://bitdeli.com/)                 | [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)](https://bitdeli.com/free)
 `rm:david`            | [devDependency](https://david-dm.org/)          | [![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)](https://david-dm.org/)
-`rm:flattr`           | [Flattr](http://flattr.com/) (badge)            | ![Flattr this](https://api.flattr.co]m/button/flattr-badge-large.png)
+`rm:flattr`           | [Flattr](http://flattr.com/) (badge)            | ![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)
 `rm:flattr_icon`      | [Flattr](http://flattr.com/) (icon)             | ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
 `rm:gem`              | [gem version](http://badge.fury.io/)            | ![gem version](https://badge.fury.io/rb/gem.png)
 `rm:grunt`            | [Grunt](http://gruntjs.com/)                    | ![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)
