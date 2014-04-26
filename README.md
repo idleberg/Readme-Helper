@@ -1,4 +1,4 @@
-# Readme Helper
+ # Readme Helper
 
 Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Markdown-formatted Readme files.
 
@@ -70,15 +70,15 @@ Trigger         | License
 Trigger               | Badge                                           | Example
 ----------------------|-------------------------------------------------|--------
 `rm:codeclimate`      | [Code Climate](https://coveralls.io/)            | n/a
-`rm:coveralls`        | [Coverage](https://coveralls.io/)               | ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)]
-`rm:bitdeli`          | [BitDeli](https://bitdeli.com/)                 | [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)](https://bitdeli.com/free)
-`rm:david`            | [devDependency](https://david-dm.org/)          | [![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)](https://david-dm.org/)
+`rm:coveralls`        | [Coverage](https://coveralls.io/)               | ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
+`rm:bitdeli`          | [BitDeli](https://bitdeli.com/)                 | ![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)
+`rm:david`            | [devDependency](https://david-dm.org/)          | ![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)
 `rm:flattr`           | [Flattr](http://flattr.com/) (badge)            | ![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)
 `rm:flattr_icon`      | [Flattr](http://flattr.com/) (icon)             | ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
 `rm:gem`              | [gem version](http://badge.fury.io/)            | ![gem version](https://badge.fury.io/rb/gem.png)
 `rm:grunt`            | [Grunt](http://gruntjs.com/)                    | ![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)
-`rm:follow`           | [GitHub](http://ghbtns.com/) (follow button)    | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
-`rm:follow_count`     | [GitHub](http://ghbtns.com/) (follow count)     | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
+`rm:follow`           | [GitHub](http://ghbtns.com/) (follow button)    | ![dfdf](http://ghbtns.com/github-btn.html?user=idleberg&type=follow)
+]`rm:follow_count`     | [GitHub](http://ghbtns.com/) (follow count)     | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
 `rm:fork`             | [GitHub](http://ghbtns.com/) (fork)             | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 `rm:fork_count`       | [GitHub](http://ghbtns.com/) (fork count)       | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
 `rm:star`             | [GitHub](http://ghbtns.com/) (star)             | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=github-buttons&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe>
