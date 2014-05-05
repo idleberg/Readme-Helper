@@ -1,6 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/idleberg/Readme-Helper.png)](http://travis-ci.org/idleberg/Readme-Helper)
-
-# Readme Helper
+# Readme Helper [![Build Status](https://secure.travis-ci.org/idleberg/Readme-Helper.png)](http://travis-ci.org/idleberg/Readme-Helper)
 
 Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Markdown-formatted Readme files.
 
