@@ -24,6 +24,6 @@ ${8:<license>}
 
 ${9:<donation>}
 ]]></content>
-	<tabTrigger>rm:node</tabTrigger>
+	<tabTrigger>rm:scaffold_node</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

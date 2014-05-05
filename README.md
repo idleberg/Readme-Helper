@@ -30,10 +30,13 @@ See below for a full list of available commands.
 
 ### Scaffolding
 
-`rm:sublime`
+`rm:scaffold_sublimetext`
 instructions for Sublime Text Package Control
 
-`rm:node`
+`rm:scaffold_grunt`
+instructions for a Grunt package
+
+`rm:scaffold_node`
 (very basic) instructions for the Node Package Manager
 
 ### Snippets
