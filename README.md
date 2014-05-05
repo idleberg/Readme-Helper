@@ -88,7 +88,7 @@ Trigger                       | Badge                                           
 `rm:paypal`                   | [Paypal](http://paypal.com/)                    | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
 `rm:pypi`                     | [PyPI](http://badge.fury.io/)                   | ![npm module](https://badge.fury.io/py/pypi.png)
 `rm:npm`                      | [npm](https://www.npmjs.org/)                    | ![npm module](https://badge.fury.io/js/npm.png)
-`rm:travis`                   | [Travis](http://travis-ci.org/)                  | n/a
+`rm:travis`                   | [Travis](http://travis-ci.org/)                  | ![Travis](https://secure.travis-ci.org/idleberg/Readme-Helper.png)
 
 #### URLs
 
