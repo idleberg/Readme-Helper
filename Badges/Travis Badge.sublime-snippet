@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-[![Build Status](https://secure.travis-ci.org/${1:user}/${2:project}.png)](http://travis-ci.org/${1:user}/${2:project})
+[![Build Status](https://secure.travis-ci.org/${1:user}/${2:project}.svg${3:?branch=${4:branch}})](http://travis-ci.org/${1:user}/${2:project})
 ]]></content>
 	<tabTrigger>rm:travis</tabTrigger>
 	<scope>text.html.markdown</scope>

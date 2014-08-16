@@ -1,4 +1,4 @@
-# Readme Helper [![Build Status](https://secure.travis-ci.org/idleberg/Readme-Helper.png)](http://travis-ci.org/idleberg/Readme-Helper)
+# Readme Helper [![Build Status](https://secure.travis-ci.org/idleberg/Readme-Helper.svg)](http://travis-ci.org/idleberg/Readme-Helper)
 
 Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Markdown-formatted Readme files.
 
@@ -75,7 +75,7 @@ Trigger                       | Badge                                           
 `rm:codeclimate`              | [Code Climate](https://coveralls.io/)           | n/a
 `rm:coveralls`                | [Coverage](https://coveralls.io/)               | ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
 `rm:bitdeli`                  | [BitDeli](https://bitdeli.com/)                 | ![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)
-`rm:david`                    | [devDependency](https://david-dm.org/)          | ![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.png)
+`rm:david`                    | [devDependency](https://david-dm.org/)          | ![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.svg)
 `rm:flattr`                   | [Flattr](http://flattr.com/) (badge)            | ![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)
 `rm:flattr_icon`              | [Flattr](http://flattr.com/) (icon)             | ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
 `rm:gem`                      | [gem version](http://badge.fury.io/)            | ![gem version](https://badge.fury.io/rb/gem.png)
@@ -92,7 +92,7 @@ Trigger                       | Badge                                           
 `rm:paypal`                   | [Paypal](http://paypal.com/)                    | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
 `rm:pypi`                     | [PyPI](http://badge.fury.io/)                   | ![npm module](https://badge.fury.io/py/pypi.png)
 `rm:npm`                      | [npm](https://www.npmjs.org/)                   | ![npm module](https://badge.fury.io/js/npm.png)
-`rm:travis`                   | [Travis](http://travis-ci.org/)                 | ![Travis](https://secure.travis-ci.org/idleberg/Readme-Helper.png)
+`rm:travis`                   | [Travis](http://travis-ci.org/)                 | ![Travis](https://secure.travis-ci.org/idleberg/Readme-Helper.svg)
 
 #### URLs
 
