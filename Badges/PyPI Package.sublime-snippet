@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-[![PyPI version](https://badge.fury.io/py/pypi.png&v=${1:version}${2:&x2=1)}](http://badge.fury.io/py/${3:project})
+[![PyPI version](https://badge.fury.io/py/pypi.svg&v=${1:version}${2:&x2=1)}](http://badge.fury.io/py/${3:project})
 ]]></content>
 	<tabTrigger>rm:pypi</tabTrigger>
 	<scope>text.html.markdown</scope>

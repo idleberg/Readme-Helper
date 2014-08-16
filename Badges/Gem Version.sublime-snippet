@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-[![gem version](badge.fury.io/rb/gem.png?title=gem&type=3d&v=${1:version}${2:&x2=1)}](http://badge.fury.io/rb/${3:project})
+[![gem version](badge.fury.io/rb/gem.svg?title=gem&type=3d&v=${1:version}${2:&x2=1)}](http://badge.fury.io/rb/${3:project})
 ]]></content>
 	<tabTrigger>rm:gem</tabTrigger>
 	<scope>text.html.markdown</scope>

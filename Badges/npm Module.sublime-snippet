@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-[![npm module](https://badge.fury.io/js/npm.png&v=${1:version}${2:&x2=1)}](http://badge.fury.io/js/${3:project})
+[![npm module](https://badge.fury.io/js/npm.svg&v=${1:version}${2:&x2=1)}](http://badge.fury.io/js/${3:project})
 ]]></content>
 	<tabTrigger>rm:npm</tabTrigger>
 	<scope>text.html.markdown</scope>

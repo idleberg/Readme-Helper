@@ -78,7 +78,7 @@ Trigger                       | Badge                                           
 `rm:david`                    | [devDependency](https://david-dm.org/)          | ![devDependency Status](https://david-dm.org/idleberg/Readme-Helper/dev-status.svg)
 `rm:flattr`                   | [Flattr](http://flattr.com/) (badge)            | ![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)
 `rm:flattr_icon`              | [Flattr](http://flattr.com/) (icon)             | ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
-`rm:gem`                      | [gem version](http://badge.fury.io/)            | ![gem version](https://badge.fury.io/rb/gem.png)
+`rm:gem`                      | [gem version](http://badge.fury.io/)            | ![gem version](https://badge.fury.io/rb/gem.svg)
 `rm:grunt`                    | [Grunt](http://gruntjs.com/)                    | ![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)
 `rm:github_follow`            | [GitHub](http://ghbtns.com/) (follow button)    | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
 `rm:github_follow_count`     | [GitHub](http://ghbtns.com/) (follow count)      | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
@@ -90,8 +90,8 @@ Trigger                       | Badge                                           
 `rm:gittip`                   | [Gittip](http://gittip.com/)                    | ![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
 `rm:landscape`                | [Landscape](https://landscape.io)               | n/a
 `rm:paypal`                   | [Paypal](http://paypal.com/)                    | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
-`rm:pypi`                     | [PyPI](http://badge.fury.io/)                   | ![npm module](https://badge.fury.io/py/pypi.png)
-`rm:npm`                      | [npm](https://www.npmjs.org/)                   | ![npm module](https://badge.fury.io/js/npm.png)
+`rm:pypi`                     | [PyPI](http://badge.fury.io/)                   | ![npm module](https://badge.fury.io/py/pypi.svg)
+`rm:npm`                      | [npm](https://www.npmjs.org/)                   | ![npm module](https://badge.fury.io/js/npm.svg)
 `rm:travis`                   | [Travis](http://travis-ci.org/)                 | ![Travis](https://secure.travis-ci.org/idleberg/Readme-Helper.svg)
 
 #### URLs
