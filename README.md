@@ -24,7 +24,7 @@ Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process
 
 By default, command completion should be enabled in all Sublime Text versions. If the completion popup doesn't show while typing one of the following commands, you can force showing it using `Ctrl+Space` or by adding the Markdown scope (text.html.markdown) to your user settings under `auto_complete_selector`. Most of the included snippets are limited to the Markdown scope, the text-only licenses are also available for plain text files.
 
-All command completions are prefixed with `rm`. Thanks to Sublime Text fuzzy search, you can use shortcuts such as `rmtip` to trigger `rm:gittip` or `rmsf` to trigger `rm:sourceforge`.
+All command completions are prefixed with `rm`. Thanks to Sublime Text fuzzy search, you can use shortcuts such as `rmppl` to trigger `rm:paypal` or `rmsf` to trigger `rm:sourceforge`.
 
 See below for a full list of available commands.
 
@@ -87,7 +87,6 @@ Trigger                       | Badge                                           
 `rm:github_star`              | [GitHub](http://ghbtns.com/) (star)             | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=github-buttons&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe>
 `rm:github_star_count`        | [GitHub](http://ghbtns.com/) (star count)       | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
 `rm:github_star_large_count`  | [GitHub](http://ghbtns.com/) (large star count) | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe>
-`rm:gittip`                   | [Gittip](http://gittip.com/)                    | ![Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)
 `rm:landscape`                | [Landscape](https://landscape.io)               | n/a
 `rm:paypal`                   | [Paypal](http://paypal.com/)                    | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
 `rm:pypi`                     | [PyPI](http://badge.fury.io/)                   | ![npm module](https://badge.fury.io/py/pypi.svg)

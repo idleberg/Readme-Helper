@@ -1,0 +1,5 @@
+Gittip badge
+============
+
+Since Gittip decided to take down their online badges, the snippet for those
+has been removed. Sorry, not my fault.
