@@ -1,0 +1,10 @@
+David DM badges
+===============
+
+Please mind the changed behaviour for David DM buttons.
+
+        rm:david → now completes to Dependencies badge
+    rm:david_dev → completes to devDependencies badge
+
+Now you can also apply a flat style to your badge, for the old behaviour,
+simply delete the style parameter from the URL.
