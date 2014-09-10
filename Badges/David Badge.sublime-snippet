@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-[![devDependencies](https://david-dm.org/${1:user}/${2:project}/dev-status.svg)](https://david-dm.org/${1:user}/${2:project}#info=devDependencies)
+[![devDependencies](https://david-dm.org/${1:user}/${2:project}.svg${3:?style=flat})](https://david-dm.org/${1:user}/${2:project})
+https://david-dm.org/gruntjs/grunt.svg
 ]]></content>
 	<tabTrigger>rm:david</tabTrigger>
 	<scope>text.html.markdown</scope>
