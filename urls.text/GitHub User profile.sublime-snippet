@@ -3,5 +3,5 @@
 https://github.com/${1:user}
 ]]></content>
 	<tabTrigger>rm:github_user</tabTrigger>
-	<scope>text.html.markdown</scope>
+	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
 </snippet>

@@ -3,5 +3,5 @@
 http://${1:project}.sourceforge.net/
 ]]></content>
 	<tabTrigger>rm:sourceforge_webpage</tabTrigger>
-	<scope>text.html.markdown</scope>
+	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
 </snippet>

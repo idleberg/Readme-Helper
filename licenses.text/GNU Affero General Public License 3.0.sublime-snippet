@@ -9,5 +9,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ]]></content>
 	<tabTrigger>rm:afferogpl3</tabTrigger>
-	<scope>text.html.markdown,text.plain</scope>
+	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
 </snippet>
