@@ -1,0 +1,6 @@
+Textile
+=======
+
+All static badges, licenses and URLs are now working in the Textile scope as
+well. Not supported are iframe-badges as those used by GitHub, scaffolding
+snippets will follow in a future release.

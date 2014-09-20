@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+"${1:SourceForge}":https://sourceforge.net/projects/${2:project}
+]]></content>
+	<tabTrigger>rm:sourceforge</tabTrigger>
+	<scope>text.html.textile</scope>
+</snippet>

@@ -1,6 +1,6 @@
 # Readme Helper [![Build Status](https://secure.travis-ci.org/idleberg/Readme-Helper.svg)](http://travis-ci.org/idleberg/Readme-Helper)
 
-Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Readme files, supporting both Markdown and reStructuredText.
+Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Readme files, supporting [Markdown](http://daringfireball.net/projects/markdown/), [reStructuredText](http://docutils.sourceforge.net/rst.html) and [Textile](http://txstyle.org/).
 
 ## Installation
 
@@ -108,6 +108,7 @@ Trigger                  | Target                   | Example
 `rm:github_repo`         | GitHub repository        | https://github.com/user/repository
 `rm:github_user`         | GitHub user profile      | https://github.com/user
 `rm:github_webpage`      | GitHub web page          | https://user.github.io/repository
+`rm:gitorious_repo`      | Gitorious repository     | https://gitorious.org/user/repository
 `rm:googlecode`          | Google Code project      | https://code.google.com/p/project
 `rm:heroku_webpage`      | Heroku web page          | http://example.herokuapp.com
 `rm:sourceforge`         | SourceForge project page | https://sourceforge.net/projects/example

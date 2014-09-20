@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+"${1:GitHub}":https://github.com/${2:user}
+]]></content>
+	<tabTrigger>rm:github_user</tabTrigger>
+	<scope>text.html.textile</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+!https://david-dm.org/${1:user}/${2:project}/dev-status.svg${3:?style=flat}!:https://david-dm.org/${1:user}/${2:project}#info=devDependencies
+]]></content>
+	<tabTrigger>rm:david_dev</tabTrigger>
+	<scope>text.html.textile</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+!https://david-dm.org/${1:user}/${2:project}.svg${3:?style=flat}!:https://david-dm.org/${1:user}/${2:project}
+]]></content>
+	<tabTrigger>rm:david</tabTrigger>
+	<scope>text.html.textile</scope>
+</snippet>
