@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: https://badge.fury.io/ph/${1:vendor}%2F${2:package}.svg
+    :target: http://badge.fury.io/ph/${1:vendor}%2F${2:package}
+]]></content>
+	<tabTrigger>rm:php_version</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>

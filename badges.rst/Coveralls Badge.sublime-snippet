@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: hhttps://coveralls.io/repos/${1:user}/${2:repository}/badge.png?branch=${3:master}
+    :target: https://coveralls.io/r/${1:user}/${2:repository}
+]]></content>
+	<tabTrigger>rm:coveralls</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>

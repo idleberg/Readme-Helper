@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+.. image:: https://badge.fury.io/js/${1:package}.svg
+    :target: http://badge.fury.io/js/${1:package}
+]]></content>
+    <tabTrigger>rm:npm_version</tabTrigger>
+    <scope>text.restructuredtext</scope>
+</snippet>

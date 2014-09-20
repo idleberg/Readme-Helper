@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: https://badge.fury.io/gh/${1:user}%2F${2:repository}.svg
+    :target: http://badge.fury.io/gh/${1:user}%2F${2:repository}
+]]></content>
+	<tabTrigger>rm:github_version</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>

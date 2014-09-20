@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: https://codeclimate.com/${1:user}/${2:repository}.png
+    :target: https://codeclimate.com/${1:user}/${2:repository}
+]]></content>
+	<tabTrigger>rm:codeclimate</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>

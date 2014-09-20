@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: https://badge.fury.io/pl/${1:cpan}.svg
+	:target: http://badge.fury.io/pl/${1:cpan}
+]]></content>
+	<tabTrigger>rm:cpan_version</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: https://badge.fury.io/rb/${1:gem}.svg
+    :target: http://badge.fury.io/rb/${1:gem}
+]]></content>
+	<tabTrigger>rm:gem_version</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>

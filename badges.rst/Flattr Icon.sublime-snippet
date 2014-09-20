@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: https://flattr.com/_img/icons/flattr_logo_16.png
+    :target: https://flattr.com/submit/auto?user_id=${1:user}&url=https://flattr.com/submit/auto?user_id=${1:user}&url=${2:https://github.com/${3:user}/${4:repository}}
+]]></content>
+	<tabTrigger>rm:flattr_icon</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>
