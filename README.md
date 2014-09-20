@@ -1,6 +1,6 @@
 # Readme Helper [![Build Status](https://secure.travis-ci.org/idleberg/Readme-Helper.svg)](http://travis-ci.org/idleberg/Readme-Helper)
 
-Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Markdown-formatted Readme files.
+Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Readme files, supporting both Markdown and reStructuredText.
 
 ## Installation
 
@@ -22,7 +22,7 @@ Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process
 
 ## Usage
 
-By default, command completion should be enabled in all Sublime Text versions. If the completion popup doesn't show while typing one of the following commands, you can force showing it using `Ctrl+Space` or by adding the Markdown scope (text.html.markdown) to your user settings under `auto_complete_selector`. Most of the included snippets are limited to the Markdown scope, the text-only licenses are also available for plain text files.
+By default, command completion should be enabled in all Sublime Text versions. If the completion popup doesn't show while typing one of the following commands, you can force showing it using `Ctrl+Space` or by adding the right scope to your user settings under `auto_complete_selector`.
 
 All command completions are prefixed with `rm`. Thanks to Sublime Text fuzzy search, you can use shortcuts such as `rmppl` to trigger `rm:paypal` or `rmsf` to trigger `rm:sourceforge`.
 
