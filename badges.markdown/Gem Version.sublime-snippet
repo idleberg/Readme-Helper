@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-[![Gem Version](https://badge.fury.io/rb/${1:builder}.svg)](http://badge.fury.io/rb/${1:builder})
+[![Gem Version](https://badge.fury.io/rb/${1:gem}.svg)](http://badge.fury.io/rb/${1:gem})
 ]]></content>
 	<tabTrigger>rm:gem_version</tabTrigger>
 	<scope>text.html.markdown</scope>
