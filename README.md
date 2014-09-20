@@ -72,14 +72,17 @@ Trigger         | License
 
 Trigger                       | Badge                                           | Example
 ------------------------------|-------------------------------------------------|--------
+`rm:cocoapod_version`         | [CocoaPod](http://badge.fury.io/for/co)         | ![Pod version](https://badge.fury.io/co/Promises.svg)
 `rm:codeclimate`              | [Code Climate](https://coveralls.io/)           | n/a
 `rm:coveralls`                | [Coverage](https://coveralls.io/)               | ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.png)
+`rm:cpan_version`             | [Perl](http://badge.fury.io/for/pl)             | ![CPAN version](https://badge.fury.io/pl/perl.svg)
 `rm:bitdeli`                  | [BitDeli](https://bitdeli.com/)                 | ![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/readme-helper/trend.png)
+`rm:bower_version`            | [Bower](http://badge.fury.io/for/bo)            | ![Bower package](https://badge.fury.io/bo/jquery.svg)
 `rm:david`                    | [Depencies](https://david-dm.org/)              | [![devDependencies](https://david-dm.org/idleberg/Readme-Helper.svg)](https://david-dm.org/idleberg/Readme-Helper#info=devDependencies)
 `rm:david_dev`                | [devDepencies](https://david-dm.org/)           | [![devDependencies](https://david-dm.org/idleberg/Readme-Helper/dev-status.svg)](https://david-dm.org/idleberg/Readme-Helper#info=devDependencies)
 `rm:flattr`                   | [Flattr](http://flattr.com/) (badge)            | ![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)
 `rm:flattr_icon`              | [Flattr](http://flattr.com/) (icon)             | ![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)
-`rm:gem`                      | [gem version](http://badge.fury.io/)            | ![gem version](https://badge.fury.io/rb/gem.svg)
+`rm:gem_version`              | [gem version](http://badge.fury.io/for/rb)      | ![gem version](https://badge.fury.io/rb/gem.svg)
 `rm:grunt`                    | [Grunt](http://gruntjs.com/)                    | ![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)
 `rm:github_follow`            | [GitHub](http://ghbtns.com/) (follow button)    | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
 `rm:github_follow_count`     | [GitHub](http://ghbtns.com/) (follow count)      | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
@@ -88,10 +91,13 @@ Trigger                       | Badge                                           
 `rm:github_star`              | [GitHub](http://ghbtns.com/) (star)             | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=github-buttons&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe>
 `rm:github_star_count`        | [GitHub](http://ghbtns.com/) (star count)       | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
 `rm:github_star_large_count`  | [GitHub](http://ghbtns.com/) (large star count) | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe>
+`rm:github_version`           | [GitHub](http://badge.fury.io/for/gh)           | ![GitHub version](https://badge.fury.io/gh/idleberg%2FBootstrap-Listr.svg)
 `rm:landscape`                | [Landscape](https://landscape.io)               | n/a
+`rm:nuget_version`            | [NuGet](http://badge.fury.io/for/nu)            | ![NuGet version](https://badge.fury.io/nu/jquery.svg)
 `rm:paypal`                   | [Paypal](http://paypal.com/)                    | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
-`rm:pypi`                     | [PyPI](http://badge.fury.io/)                   | ![npm module](https://badge.fury.io/py/pypi.svg)
-`rm:npm`                      | [npm](https://www.npmjs.org/)                   | ![npm module](https://badge.fury.io/js/npm.svg)
+`rm:pypi_version`             | [PyPI](http://badge.fury.io/for/py)             | ![PyPI version](https://badge.fury.io/py/pypi.svg)
+`rm:php_version`              | [PHP](http://badge.fury.io/for/ph)              | ![PHP version](https://badge.fury.io/ph/simplepie%2Fsimplepie.svg)
+`rm:npm_version`              | [npm module](https://www.npmjs.org/)            | ![npm module](https://badge.fury.io/js/npm.svg)
 `rm:travis`                   | [Travis](http://travis-ci.org/)                 | ![Travis](https://secure.travis-ci.org/idleberg/Readme-Helper.svg)
 
 #### URLs
