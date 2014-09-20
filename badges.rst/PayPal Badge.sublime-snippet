@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 .. image:: https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif
-    :target: https://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=${1:id}
+	:target: https://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=${1:id}
 ]]></content>
 	<tabTrigger>rm:paypal</tabTrigger>
 	<scope>text.restructuredtext</scope>
