@@ -17,7 +17,7 @@ Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process
 
 ### Manual installation
 
-1. Download the files using the GitHub .zip download option
+1. Download the files using the GitHub [.zip](https://github.com/idleberg/Readme-Helper/archive/master.zip) download option
 2. Unzip the files to your Sublime Text `Packages` directory
 
 ## Usage
