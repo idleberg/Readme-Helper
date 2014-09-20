@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+[![Bower version](https://badge.fury.io/bo/${1:package}.svg)](http://badge.fury.io/bo/${1:package})
+]]></content>
+	<tabTrigger>rm:bower_version</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

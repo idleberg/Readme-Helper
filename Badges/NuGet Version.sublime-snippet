@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+[![NuGet version](https://badge.fury.io/nu/${1:package}.svg)](http://badge.fury.io/nu/${1:package})
+]]></content>
+	<tabTrigger>rm:nuget_version</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>
