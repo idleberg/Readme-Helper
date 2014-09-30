@@ -95,7 +95,7 @@ Trigger                       | Badge                                           
 `rm:github_star_count`        | [GitHub](http://ghbtns.com/) (star count)       | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
 `rm:github_star_large_count`  | [GitHub](http://ghbtns.com/) (large star count) | <iframe src="http://ghbtns.com/github-btn.html?user=idleberg&repo=Readme-Helper&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe>
 `rm:github_version`           | [GitHub](http://badge.fury.io/for/gh)           | ![GitHub version](https://badge.fury.io/gh/idleberg%2FBootstrap-Listr.svg)
-`rm:gitter`                   | [Gitter](https://gitter.im)                     | [![Gitter](https://badges.gitter.im/idleberg/Readme-Helper.svg)](https://gitter.im/idleberg/Readme-Helper)
+`rm:gitter`                   | [Gitter](https://gitter.im)                     | [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/gitterHQ/gitter)
 `rm:landscape`                | [Landscape](https://landscape.io)               | n/a
 `rm:nuget_version`            | [NuGet](http://badge.fury.io/for/nu)            | ![NuGet version](https://badge.fury.io/nu/jquery.svg)
 `rm:paypal`                   | [Paypal](http://paypal.com/)                    | ![Donate](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donate_SM.gif)
