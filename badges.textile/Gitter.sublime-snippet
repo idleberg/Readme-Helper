@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+!https://badges.gitter.im/${1:Join Chat}.svg!:https://gitter.im/${2:user}/${3:project}
+]]></content>
+	<tabTrigger>rm:gitter</tabTrigger>
+	<scope>text.html.textile</scope>
+</snippet>
