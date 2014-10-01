@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+`${1:GitHub} <https://github.com/${2:user}/${3:repository}>`_
+]]></content>
+	<tabTrigger>rm:github_repo</tabTrigger>
+	<scope>text.restructuredtext</scope>
+</snippet>
