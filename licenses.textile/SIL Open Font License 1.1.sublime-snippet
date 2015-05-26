@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+Copyright (c) ${1:<dates>}, ${2:<Copyright Holder>} ${3:(${4:<URL|email>})},
+with Reserved Font Name ${5:<Reserved Font Name>}.
+${6:Copyright (c) ${7:<dates>}, ${8:<additional Copyright Holder>} ${9:(${10:<URL|email>})},
+with Reserved Font Name ${11:<additional Reserved Font Name>}.}
+
+This Font Software is licensed under the "SIL Open Font License, Version 1.1":http://scripts.sil.org/OFL.
+]]></content>
+    <tabTrigger>rm:ofl1.1</tabTrigger>
+    <scope>text.html.textile</scope>
+</snippet>

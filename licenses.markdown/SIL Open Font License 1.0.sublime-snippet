@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+This Font Software is Copyright (c) ${1:<dates>}, ${2:<copyright holder>} ${3:(${4:<mainURL>})}.
+All Rights Reserved.
+${5:Copyright (c) ${6:<dates>}, ${7:<additional copyright holder>} ${8:(${9:<mainURL>})}.}
+
+${10:<Font Name>} is a Reserved Font Name for this Font Software.
+${11:${12:<Additional Font Name>} is a Reserved Font Name for this Font Software.}
+
+This Font Software is licensed under the [SIL Open Font License, Version 1.0](http://scripts.sil.org/OFL).
+No modification of the license is permitted, only verbatim copy is allowed.
+]]></content>
+	<tabTrigger>rm:ofl1.0</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>
