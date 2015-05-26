@@ -1,4 +1,7 @@
-# Readme Helper [![Build Status](https://secure.travis-ci.org/idleberg/Readme-Helper.svg)](http://travis-ci.org/idleberg/Readme-Helper)
+# Readme Helper
+
+[![GitHub release](https://img.shields.io/github/release/idleberg/Readme-Helper.svg?style=flat-square)](https://github.com/idleberg/Readme-Helper/releases)
+[![Travis](https://img.shields.io/travis/idle/Readme-Helper.svg?style=flat-square)](https://travis-ci.org/idle/Readme-Helper)
 
 Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process of writing Readme files, supporting [Markdown](http://daringfireball.net/projects/markdown/), [reStructuredText](http://docutils.sourceforge.net/rst.html) and [Textile](http://txstyle.org/).
 
