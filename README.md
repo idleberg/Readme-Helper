@@ -1,6 +1,6 @@
 # Readme Helper
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat${3:-square)](http://opensource.org/licenses/MIT)
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/idleberg/Readme-Helper.svg?style=flat-square)](https://github.com/idleberg/Readme-Helper/releases)
 [![Travis](https://img.shields.io/travis/idleberg/Readme-Helper.svg?style=flat-square)](https://travis-ci.org/idleberg/Readme-Helper)
 
