@@ -1,5 +1,6 @@
 # Readme Helper
 
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat${3:-square)](http://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/idleberg/Readme-Helper.svg?style=flat-square)](https://github.com/idleberg/Readme-Helper/releases)
 [![Travis](https://img.shields.io/travis/idleberg/Readme-Helper.svg?style=flat-square)](https://travis-ci.org/idleberg/Readme-Helper)
 
@@ -71,6 +72,8 @@ Trigger         | License
 `rm:gpl2`       | [GNU General Public License 2.0](http://opensource.org/licenses/GPL-2.0)
 `rm:gpl3`       | [GNU General Public License 3.0](http://opensource.org/licenses/GPL-3.0)
 `rm:lgpl2`      | [GNU Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
+`rm:ofl10`      | [SIL Open Font License 1.0](http://scripts.sil.org/OFL)
+`rm:ofl11`      | [SIL Open Font License 1.1](http://scripts.sil.org/OFL)
 `rm:mit`        | [The MIT License](http://opensource.org/licenses/MIT)
 `rm:zlib`       | [The zlib/libpng License](http://opensource.org/licenses/Zlib)
 
