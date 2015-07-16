@@ -3,5 +3,5 @@
 https://gitorious.org/${1:user}/${2:repository}
 ]]></content>
 	<tabTrigger>rm:gitorious_repo</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>

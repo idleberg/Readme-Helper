@@ -3,5 +3,5 @@
 https://${1:user}.github.io/${2:repository}
 ]]></content>
 	<tabTrigger>rm:github_webpage</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>

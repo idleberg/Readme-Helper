@@ -11,5 +11,5 @@ This Font Software is licensed under the `SIL Open Font License, Version 1.0 <ht
 No modification of the license is permitted, only verbatim copy is allowed.
 ]]></content>
 	<tabTrigger>rm:ofl1.0</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>

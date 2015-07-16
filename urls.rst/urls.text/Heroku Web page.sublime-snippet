@@ -3,5 +3,5 @@
 http://${1:app}.herokuapp.com
 ]]></content>
 	<tabTrigger>rm:heroku_webpage</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>

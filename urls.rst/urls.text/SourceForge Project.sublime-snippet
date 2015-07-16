@@ -3,5 +3,5 @@
 https://sourceforge.net/projects/${1:project}
 ]]></content>
 	<tabTrigger>rm:sourceforge</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>

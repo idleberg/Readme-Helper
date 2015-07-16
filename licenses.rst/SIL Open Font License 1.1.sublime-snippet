@@ -8,5 +8,5 @@ with Reserved Font Name ${11:<additional Reserved Font Name>}.}
 This Font Software is licensed under the `SIL Open Font License, Version 1.1 <http://scripts.sil.org/OFL>`_.
 ]]></content>
 	<tabTrigger>rm:ofl1.1</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>

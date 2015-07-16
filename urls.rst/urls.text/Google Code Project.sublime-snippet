@@ -3,5 +3,5 @@
 https://code.google.com/p/${1:project}
 ]]></content>
 	<tabTrigger>rm:googlecode</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>

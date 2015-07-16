@@ -9,5 +9,5 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 ]]></content>
 	<tabTrigger>rm:lgpl2</tabTrigger>
-	<scope>text.html.markdown,text.plain,text.restructuredtext</scope>
+	<scope>text.restructuredtext</scope>
 </snippet>
