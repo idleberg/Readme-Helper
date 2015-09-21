@@ -3,6 +3,6 @@
 .. image:: https://secure.travis-ci.org/${1:user}/${2:project}.svg${3:?branch=${4:branch}}
 	:target: http://travis-ci.org/${1:user}/${2:project}
 ]]></content>
-	<tabTrigger>rm:travis</tabTrigger>
+	<tabTrigger>rm-travis</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

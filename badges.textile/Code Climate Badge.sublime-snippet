@@ -2,6 +2,6 @@
 	<content><![CDATA[
 !https://codeclimate.com/${1:user}/${2:repository}.png!:https://codeclimate.com/${1:user}/${2:repository}
 ]]></content>
-	<tabTrigger>rm:codeclimate</tabTrigger>
+	<tabTrigger>rm-codeclimate</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

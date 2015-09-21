@@ -2,6 +2,6 @@
 	<content><![CDATA[
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 ]]></content>
-	<tabTrigger>rm:grunt</tabTrigger>
+	<tabTrigger>rm-grunt</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

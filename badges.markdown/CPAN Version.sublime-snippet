@@ -2,6 +2,6 @@
 	<content><![CDATA[
 [![CPAN version](https://badge.fury.io/pl/${1:cpan}.svg)](http://badge.fury.io/pl/${1:cpan})
 ]]></content>
-	<tabTrigger>rm:cpan_version</tabTrigger>
+	<tabTrigger>rm-cpan_version</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

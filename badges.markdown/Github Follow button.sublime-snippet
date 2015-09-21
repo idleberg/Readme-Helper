@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<iframe src="http://ghbtns.com/github-btn.html?user=${1:user}&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
-]]></content>
-	<tabTrigger>rm:github_follow</tabTrigger>
-	<scope>text.html.markdown</scope>
-</snippet>

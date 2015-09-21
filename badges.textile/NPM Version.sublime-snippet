@@ -2,6 +2,6 @@
 	<content><![CDATA[
 !https://badge.fury.io/js/${1:package}.svg!:http://badge.fury.io/js/${1:package}
 ]]></content>
-	<tabTrigger>rm:npm_version</tabTrigger>
+	<tabTrigger>rm-npm_version</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

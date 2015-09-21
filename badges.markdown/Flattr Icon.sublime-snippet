@@ -2,6 +2,6 @@
 	<content><![CDATA[
 [![Flattr this](https://flattr.com/_img/icons/flattr_logo_16.png)](https://flattr.com/submit/auto?user_id=${1:user}&url=https://flattr.com/submit/auto?user_id=${1:user}&url=${2:https://github.com/${3:user}/${4:repository}})
 ]]></content>
-	<tabTrigger>rm:flattr_icon</tabTrigger>
+	<tabTrigger>rm-flattr_icon</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

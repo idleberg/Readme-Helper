@@ -3,6 +3,6 @@
 .. image:: https://badge.fury.io/py/${1:package}.svg
 	:target: http://badge.fury.io/py/${1:package}
 ]]></content>
-	<tabTrigger>rm:pypi_version</tabTrigger>
+	<tabTrigger>rm-pypi_version</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

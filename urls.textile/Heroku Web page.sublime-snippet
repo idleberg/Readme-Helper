@@ -2,6 +2,6 @@
 	<content><![CDATA[
 "${1:Heroku}":http://${2:app}.herokuapp.com
 ]]></content>
-	<tabTrigger>rm:heroku_webpage</tabTrigger>
+	<tabTrigger>rm-heroku_webpage</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

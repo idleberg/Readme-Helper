@@ -2,6 +2,6 @@
 	<content><![CDATA[
 [![Coveralls](https://coveralls.io/repos/${1:user}/${2:repository}/badge.png?branch=${3:master})](https://coveralls.io/r/${1:user}/${2:repository})
 ]]></content>
-	<tabTrigger>rm:coveralls</tabTrigger>
+	<tabTrigger>rm-coveralls</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

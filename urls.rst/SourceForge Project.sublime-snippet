@@ -2,6 +2,6 @@
 	<content><![CDATA[
 `${1:SourceForge} <https://sourceforge.net/projects/${2:project}>`_
 ]]></content>
-	<tabTrigger>rm:sourceforge</tabTrigger>
+	<tabTrigger>rm-sourceforge</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

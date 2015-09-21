@@ -2,6 +2,6 @@
 	<content><![CDATA[
 !https://landscape.io/github/${1:user}/${2:repository}/${3:master}/landscape.png!:https://landscape.io/github/${1:user}/${2:repository}/${3:master}
 ]]></content>
-	<tabTrigger>rm:landscape</tabTrigger>
+	<tabTrigger>rm-landscape</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

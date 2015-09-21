@@ -2,6 +2,6 @@
 	<content><![CDATA[
 `${1:Gitorious} <https://gitorious.org/${2:user}/${3:repository}>`_
 ]]></content>
-	<tabTrigger>rm:gitorious_repo</tabTrigger>
+	<tabTrigger>rm-gitorious_repo</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

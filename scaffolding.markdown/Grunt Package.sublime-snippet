@@ -42,6 +42,6 @@ ${8:options}
 
 ${9:changelog}
 ]]></content>
-	<tabTrigger>rm:scaffold_grunt</tabTrigger>
+	<tabTrigger>rm-scaffold_grunt</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

@@ -1,5 +1,0 @@
-Gitter badges & URLs
-====================
-
-* added support for Gitter.im badges
-* added URL snippets for reStructuredText

@@ -3,6 +3,6 @@
 .. image:: https://cdn.gruntjs.com/builtwith.png
 	:target: http://gruntjs.com/
 ]]></content>
-	<tabTrigger>rm:grunt</tabTrigger>
+	<tabTrigger>rm-grunt</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

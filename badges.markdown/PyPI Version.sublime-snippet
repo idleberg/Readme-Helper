@@ -2,6 +2,6 @@
 	<content><![CDATA[
 [![PyPI version](https://badge.fury.io/py/${1:package}.svg)](http://badge.fury.io/py/${1:package})
 ]]></content>
-	<tabTrigger>rm:pypi_version</tabTrigger>
+	<tabTrigger>rm-pypi_version</tabTrigger>
 	<scope>text.html.markdown</scope>
 </snippet>

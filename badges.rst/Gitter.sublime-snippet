@@ -3,6 +3,6 @@
 .. image:: https://badges.gitter.im/${1:Join Chat}.svg
 	:target: https://gitter.im/${2:user}/${3:project}
 ]]></content>
-	<tabTrigger>rm:gitter</tabTrigger>
+	<tabTrigger>rm-gitter</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

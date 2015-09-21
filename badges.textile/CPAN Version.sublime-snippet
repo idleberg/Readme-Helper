@@ -3,6 +3,6 @@
 !https://badge.fury.io/pl/${1:cpan}.svg
 	:target: http://badge.fury.io/pl/${1:cpan}
 ]]></content>
-	<tabTrigger>rm:cpan_version</tabTrigger>
+	<tabTrigger>rm-cpan_version</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-http://${1:app}.herokuapp.com
-]]></content>
-	<tabTrigger>rm:heroku_webpage</tabTrigger>
-	<scope>text.restructuredtext</scope>
-</snippet>

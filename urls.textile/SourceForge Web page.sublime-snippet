@@ -2,6 +2,6 @@
 	<content><![CDATA[
 "${1:SourceForge}":http://${2:project}.sourceforge.net/
 ]]></content>
-	<tabTrigger>rm:sourceforge_webpage</tabTrigger>
+	<tabTrigger>rm-sourceforge_webpage</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

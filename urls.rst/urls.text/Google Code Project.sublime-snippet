@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-https://code.google.com/p/${1:project}
-]]></content>
-	<tabTrigger>rm:googlecode</tabTrigger>
-	<scope>text.restructuredtext</scope>
-</snippet>

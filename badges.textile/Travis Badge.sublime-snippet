@@ -2,6 +2,6 @@
 	<content><![CDATA[
 !https://secure.travis-ci.org/${1:user}/${2:project}.svg${3:?branch=${4:branch}}!:http://travis-ci.org/${1:user}/${2:project}
 ]]></content>
-	<tabTrigger>rm:travis</tabTrigger>
+	<tabTrigger>rm-travis</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

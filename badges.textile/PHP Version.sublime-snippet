@@ -2,6 +2,6 @@
 	<content><![CDATA[
 !https://badge.fury.io/ph/${1:vendor}%2F${2:package}.svg!:http://badge.fury.io/ph/${1:vendor}%2F${2:package}
 ]]></content>
-	<tabTrigger>rm:php_version</tabTrigger>
+	<tabTrigger>rm-php_version</tabTrigger>
 	<scope>text.html.textile</scope>
 </snippet>

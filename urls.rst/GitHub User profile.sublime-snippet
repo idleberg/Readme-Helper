@@ -2,6 +2,6 @@
 	<content><![CDATA[
 `${1:GitHub} <https://github.com/${2:user}>`_
 ]]></content>
-	<tabTrigger>rm:github_user</tabTrigger>
+	<tabTrigger>rm-github_user</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

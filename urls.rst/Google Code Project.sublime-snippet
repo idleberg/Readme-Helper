@@ -2,6 +2,6 @@
 	<content><![CDATA[
 `${1:Google Code} <https://code.google.com/p/${2:project}>`_
 ]]></content>
-	<tabTrigger>rm:googlecode</tabTrigger>
+	<tabTrigger>rm-googlecode</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

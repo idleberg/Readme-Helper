@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-https://bitbucket.org/${1:user}/${2:repository}
-]]></content>
-	<tabTrigger>rm:bitbucket_repo</tabTrigger>
-	<scope>text.restructuredtext</scope>
-</snippet>

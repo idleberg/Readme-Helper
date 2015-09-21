@@ -68,6 +68,6 @@ ${20:2. ${21:This is the second screen shot}}
 ${24:= ${25:1.0} =
 ${26:Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.}}
 ]]></content>
-    <tabTrigger>rm:scaffold_wordpress</tabTrigger>
+    <tabTrigger>rm-scaffold_wordpress</tabTrigger>
     <scope>text.html.markdown,text.plain</scope>
 </snippet>

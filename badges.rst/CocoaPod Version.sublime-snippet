@@ -3,6 +3,6 @@
 .. image:: https://badge.fury.io/co/${1:cocoapod}.svg
 	:target: http://badge.fury.io/co/${1:cocoapod}
 ]]></content>
-	<tabTrigger>rm:cocoapod_version</tabTrigger>
+	<tabTrigger>rm-cocoapod_version</tabTrigger>
 	<scope>text.restructuredtext</scope>
 </snippet>

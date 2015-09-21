@@ -1,5 +1,0 @@
-reStructuredText
-================
-
-All licenses and URLS, as well as most badges are now working in the scope for
-reStructuredText. More snippets will be added over the next couple releases!
