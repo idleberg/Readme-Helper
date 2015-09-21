@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+This work ${1:by ${2:author}} is licensed under a `Creative Commons Attribution-NonCommercial 3.0 Unported License <http://creativecommons.org/licenses/by-nc-sa/3.0`_.
+]]></content>
+	<tabTrigger>rm-ccbync3</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

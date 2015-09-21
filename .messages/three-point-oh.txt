@@ -1,0 +1,6 @@
+v3.0.0
+======
+
+Please take note that the prefix to trigger Readme-Helper snippets has changed
+from "rm:" to "rm-". Also, all snippets for badges, licenses and URLs are now
+avaiable under all supported scopes.

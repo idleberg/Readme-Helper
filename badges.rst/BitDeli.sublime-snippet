@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.. image:: https://{1:d2weczhvl823v0}.cloudfront.net/${2:user}/${3:repository}/trend.png
+	:target: https://bitdeli.com/free
+]]></content>
+	<tabTrigger>rm-bitdeli</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

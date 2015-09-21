@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<iframe src="http://ghbtns.com/github-btn.html?user=${1:user}&repo=${2:repository}&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+]]></content>
+	<tabTrigger>rm-github_star_count</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

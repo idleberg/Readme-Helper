@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+http://${1:project}.sourceforge.net/
+]]></content>
+	<tabTrigger>rm-sourceforge_webpage</tabTrigger>
+	<scope>text.plain</scope>
+</snippet>

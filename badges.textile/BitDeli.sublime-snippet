@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+"!https://{1:d2weczhvl823v0}.cloudfront.net/${2:user}/${3:repository}/trend.png(Bitdeli Badge)!":https://bitdeli.com/free
+]]></content>
+	<tabTrigger>rm-bitdeli</tabTrigger>
+	<scope>text.html.textile</scope>
+</snippet>
