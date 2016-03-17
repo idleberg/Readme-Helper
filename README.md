@@ -12,8 +12,8 @@ Snippets for [Sublime Text](http://www.sublimetext.com/) to speed up the process
 ### Package Control
 
 1. Make sure you already have [Package Control](https://packagecontrol.io/) installed
-2. Choose “*Install Package*” from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
-3. Type “*Readme Helper*” and press <kbd>Enter</kbd>
+2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
+3. Type *“Readme Helper”* and press <kbd>Enter</kbd>
 
 ### GitHub
 
