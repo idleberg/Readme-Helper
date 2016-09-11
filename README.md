@@ -44,7 +44,7 @@ instructions for a Grunt package
 `rm-scaffold_node`
 (very basic) instructions for the Node Package Manager
 
-`rm-scaffold_node`
+`rm-scaffold_wordpress`
 a [readme](https://wordpress.org/plugins/about/readme.txt) for a Wordpress plugin
 
 ### Snippets
